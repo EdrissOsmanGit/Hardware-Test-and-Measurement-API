@@ -1,0 +1,39 @@
+2026-09-10 07:15:53,546 [INFO] hwapi.arduino: Connected to COM3 at 9600 baud
+2026-09-10 07:15:53,547 [INFO] hwapi: Registered device arduino1 on COM3
+2026-09-10 07:15:59,606 [INFO] hwapi.arduino: Sent: b'READ 0\n'
+2026-09-10 07:15:59,623 [INFO] hwapi.arduino: Received: '2.625'
+2026-09-10 07:16:33,055 [INFO] hwapi.arduino: Sent: b'READ 99\n'
+2026-09-10 07:16:33,089 [INFO] hwapi.arduino: Received: '0.816'
+2026-09-10 07:20:47,169 [INFO] hwapi.arduino: Connected to COM3 at 9600 baud
+2026-09-10 07:20:47,169 [INFO] hwapi: Registered device arduino1 on COM3
+2026-09-10 07:20:53,521 [INFO] hwapi.arduino: Sent: b'READ 99\n'
+2026-09-10 07:20:53,555 [INFO] hwapi.arduino: Received: 'ERR invalid channel'
+2026-09-10 07:20:53,555 [ERROR] hwapi: Measurement failed on arduino1, channel 99: Device returned error: 'ERR invalid channel'
+2026-09-10 07:24:56,616 [INFO] hwapi: Database initialized
+2026-09-10 07:25:16,375 [INFO] hwapi.arduino: Connected to COM3 at 9600 baud
+2026-09-10 07:25:16,377 [INFO] hwapi: Registered device arduino1 on COM3
+2026-09-10 07:25:52,105 [INFO] hwapi.arduino: Sent: b'READ 0\n'
+2026-09-10 07:25:52,124 [INFO] hwapi.arduino: Received: '2.512'
+2026-09-10 07:25:53,413 [INFO] hwapi.arduino: Sent: b'READ 0\n'
+2026-09-10 07:25:53,437 [INFO] hwapi.arduino: Received: '1.461'
+2026-09-10 07:33:42,526 [INFO] hwapi: Database initialized
+2026-09-10 07:33:48,233 [INFO] hwapi: Database initialized
+2026-09-10 07:40:26,868 [INFO] hwapi: Database initialized
+2026-09-10 07:42:14,788 [INFO] hwapi.arduino: Connected to COM3 at 9600 baud
+2026-09-10 07:42:14,789 [INFO] hwapi: Registered device arduino1 on COM3
+2026-09-10 07:42:34,138 [INFO] hwapi.arduino: Sent: b'READ 0\n'
+2026-09-10 07:42:34,162 [INFO] hwapi.arduino: Received: '1.588'
+2026-09-10 07:42:54,563 [INFO] hwapi.arduino: Sent: b'READ 0\n'
+2026-09-10 07:42:54,585 [INFO] hwapi.arduino: Received: '0.655'
+2026-09-10 07:42:55,582 [INFO] hwapi.arduino: Sent: b'READ 0\n'
+2026-09-10 07:42:55,613 [INFO] hwapi.arduino: Received: '0.645'
+2026-09-10 07:42:56,623 [INFO] hwapi.arduino: Sent: b'READ 0\n'
+2026-09-10 07:42:56,654 [INFO] hwapi.arduino: Received: '1.686'
+2026-09-10 07:42:57,670 [INFO] hwapi.arduino: Sent: b'READ 0\n'
+2026-09-10 07:42:57,701 [INFO] hwapi.arduino: Received: '1.408'
+2026-09-10 07:42:58,710 [INFO] hwapi.arduino: Sent: b'READ 0\n'
+2026-09-10 07:42:58,742 [INFO] hwapi.arduino: Received: '1.036'
+2026-09-10 07:42:59,747 [INFO] hwapi.arduino: Sent: b'READ 0\n'
+2026-09-10 07:42:59,778 [INFO] hwapi.arduino: Received: '0.640'
+2026-09-10 07:42:59,785 [INFO] hwapi: Client disconnected from arduino1 stream
+2026-09-10 07:48:21,152 [INFO] hwapi: Database initialized
