@@ -101,3 +101,15 @@ Python · FastAPI · REST API design · async/await · serial communication · h
 - Multi-device concurrent polling
 - Docker Compose deployment
 - Web dashboard for live measurement visualization
+
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/f2de4bbd-742b-4d61-b1a7-c52110e9a757
+
+
+
